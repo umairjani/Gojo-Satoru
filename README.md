@@ -37,7 +37,7 @@ Add FFmpeg to PATH environment variable
 <b><details><summary>Start via Heroku</summary></b>
 
 * Scan QR In Your Whatsapp From [Here](https://replit.com/@nexusNw/Md-Scanner?outputonly=1&lite=1)
-* Fork This Repo By Clicking [Here](https://github.com/nexusNw/Gojo-Satoru/fork)
+* Fork This Repo By Clicking [Here](https://github.com/nexusNw/umairjani/fork)
 * then Deploy The Bot From [Here](https://gist.githubusercontent.com/nexusNw/49b7cfc46404cb6f079f2d25ad8ddc6c/raw/a8a4ac7fc3e1b6fb031cf914e7fb9e725a79399b/nexusnw)
 * Wait 5-10 Min To Deploy 
 * After Deploying On The Worker And Check The Logs
@@ -72,8 +72,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'YOURAPIKEY',
 }
   
-global.owner = ["9181XXXXXX"]
-global.ownername = ["YourName"]
+global.owner = ["923066831886"]
+global.ownername = ["Maher BaBa"]
 ```
 </details>
 
